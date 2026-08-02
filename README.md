@@ -1,4 +1,4 @@
-# 📊 SQL Aggregates & Operators — Analytical Exercise
+# SQL Aggregates & Operators — Analytical Exercise
 
 This exercise demonstrates my ability to perform structured data analysis using SQL, with a focus on aggregation, grouping, and conditional filtering.
 
@@ -6,7 +6,7 @@ Using multiple datasets, I solved 15 analytical queries that simulate real busin
 
 ---
 
-## 🚀 Exercise Overview
+## Exercise Overview
 
 In this exercise, I worked with multiple datasets representing different business domains (students, courses, enrollments, salaries, and projects) to:
 
@@ -23,25 +23,25 @@ This exercise reflects how SQL is applied in:
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
-### 🔹 SQL & Data Analysis
+### SQL & Data Analysis
 - Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`  
 - Grouping data using `GROUP BY`  
 - Filtering grouped data using `HAVING`  
 - Row-level filtering using `WHERE`  
 
-### 🔹 Query Logic & Structure
+### Query Logic & Structure
 - Use of logical operators (`AND`, `OR`, `NOT`, `IN`, `BETWEEN`)  
 - Understanding execution order (`WHERE` vs `GROUP BY` vs `HAVING`)  
 - Writing clean, readable SQL queries  
 
-### 🔹 Analytical Thinking
+### Analytical Thinking
 - Translating analytical questions into SQL queries  
 - Identifying key metrics (totals, averages, counts)  
 - Interpreting grouped and aggregated results  
 
-### 🔹 Data Validation & Presentation
+### Data Validation & Presentation
 - Manual validation of query outputs  
 - Structuring results for reporting  
 - Clear documentation of queries and outputs  
@@ -93,7 +93,7 @@ This exercise reflects how SQL is applied in:
 
 ---
 
-## 💻 SQL Queries
+## SQL Queries
 
 ```sql
 -- Question 1
